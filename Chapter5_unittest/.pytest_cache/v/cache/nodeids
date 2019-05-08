@@ -1,0 +1,4 @@
+[
+  "test_name_function.py::NamesTestCase::test_first_last_name",
+  "test_name_function.py::NamesTestCase::test_first_middle_last_name"
+]
